@@ -1,0 +1,12 @@
+__pycache__/
+.env*
+.venv/
+
+__pycache__/
+*.py[cod]
+
+.pdm-python/
+.pdm-build/
+ 
+*.env
+.pdm-python
