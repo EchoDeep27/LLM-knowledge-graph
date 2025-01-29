@@ -1,0 +1,14 @@
+[project]
+name = "llm-knowledge-graph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "docling>=2.17.0",
+    "igraph>=0.11.8",
+    "matplot>=0.1.9",
+    "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
+    "torch>=2.5.1",
+]
